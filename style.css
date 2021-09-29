@@ -33,6 +33,10 @@ body{
     border: none;
     text-align: center;
 }
+label{
+    margin: .8em 0;
+    font-size: 1.3rem;
+}
 
 #input-box-container #btn{
     margin: 2em 0;
